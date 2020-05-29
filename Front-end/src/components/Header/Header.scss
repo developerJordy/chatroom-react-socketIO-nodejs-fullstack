@@ -1,0 +1,29 @@
+h2, h3 {
+  margin: 0 20px 0 5px;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #2979FF;
+  border-radius: 4px 4px 0 0;
+  height: 60px;
+  width: 100%;
+}
+
+.header-innerContainer {
+  flex: 0.5;
+  display: flex;
+  align-items: center;
+  margin-left: 5%;
+  color: white;
+}
+
+.header-innerContainer a {
+  text-decoration:none;
+  color: white;
+}
+
+.underlined {
+  border-bottom: 1px solid white;
+}
