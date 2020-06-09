@@ -21,12 +21,8 @@ setup:
 - CSS preprocessors: OK
 - responsive, mobile-first: OK
 - modularized: OK
-- <em>written in Typescript: (read this to late, after all was written in js, but I am profeccient in typescript): !ok</em>
-- <em>tests: (manually ok): !ok</em>
 
 ##### optional
  - smiles support: OK
  - extra: join multiple rooms: OK
- - <em>unread messages:   !ok</em>
- - <em>link parser (youtube/img):   !ok</em>
- - <em>internationalization:   !ok</em>
+
